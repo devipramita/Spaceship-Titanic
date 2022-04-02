@@ -7,4 +7,4 @@ Notebook contains:
 * Model Training
 * Model Evaluation
 
-Best accuracy score is 0.80336 on LightGBM Classifier
+Best accuracy score on public leaderboard is 0.80336 on LightGBM Classifier
